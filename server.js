@@ -1,6 +1,6 @@
 // This is the demo secret key. In production, we recommend
 // you store your secret key(s) safely.
-const ;
+const 0x4AAAAAAALbtx9RzxdVWwB-S6WRch3o4ZQ;
 
 async function handlePost(request) {
   const body = await request.formData();
