@@ -90,7 +90,7 @@ iframe {
 }
 
 body {
-  background-image: url("original.jpg");
+  background-image: url("https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2017/11/Abstract-desktop-22.jpg?resize=750%2C530&ssl=1");
 }
 
 .bottom-nav #time {
@@ -103,7 +103,8 @@ body {
 #myBar {
   width: 10%;
   height: 30px;
-  background-color: #04AA6D;
+  background-color: #ffffff
+;
   text-align: center; /* To center it horizontally (if you want) */
   line-height: 30px; /* To center it vertically */
   color: white;
